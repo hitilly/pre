@@ -6,4 +6,4 @@ Created on Thu Sep  1 14:55:26 2022
 @author: tilly0426
 """
 
-print('hello git !!')
+print('get test 2 2c=好好好好 !!')
